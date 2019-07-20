@@ -3,7 +3,7 @@ ext {
     app = [
             versionCode  : 100,
             versionName  : "1.0.0.0",
-            applicationId: "com.ckr.multi_upload",
+            applicationId: "com.ckr.multi_download",
     ]
 
     sdk = [
