@@ -21,4 +21,5 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation other.support_v7
     implementation other.constraint_layout
+    implementation other.okhttp
 }
