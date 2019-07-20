@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">断点续传</string>
+
+    <string name="text_download">开始下载</string>
+</resources>

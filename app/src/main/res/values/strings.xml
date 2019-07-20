@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Multi-Upload</string>
+    <string name="app_name">Multi-Download</string>
+
+    <string name="text_download">start download</string>
 </resources>
